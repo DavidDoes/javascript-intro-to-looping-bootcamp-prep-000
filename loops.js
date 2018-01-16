@@ -1,0 +1,5 @@
+function forLoop (arr){
+  
+}
+
+for ()
