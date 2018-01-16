@@ -2,4 +2,4 @@ function forLoop (arr){
   
 }
 
-for ()
+for (let i )
