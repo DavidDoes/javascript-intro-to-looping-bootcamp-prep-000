@@ -1,4 +1,4 @@
-function forLoop (arr){
+function forLoop (array){
   
 }
 
