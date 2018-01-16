@@ -1,4 +1,4 @@
-function forLoop (array){
+function forLoop(array){
   const array = [];
 }
 
